@@ -1,4 +1,4 @@
-# **Module 9: Project Week (Week 10)**
+# **Module 9: Project Week (Week 10 & 11)**
 
 **Overall Goal:** To provide learners with an opportunity to apply the knowledge and skills acquired throughout the course in a hands-on, self-directed project. This module is designed to foster creativity, problem-solving, and independent learning while reinforcing the concepts and techniques covered in previous modules.
 
